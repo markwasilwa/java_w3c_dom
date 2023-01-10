@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users xmlns="markwasilwa.com/wmmx/users">
+  <user id="1">
+    <firstname>Robert</firstname>
+    <lastname>Brown</lastname>
+    <occupation>Programmer</occupation>
+  </user>
+  <user id="2">
+    <firstname>Pamela</firstname>
+    <lastname>Kyle</lastname>
+    <occupation>Writer</occupation>
+  </user>
+  <user id="3">
+    <firstname>Peter</firstname>
+    <lastname>Smith</lastname>
+    <occupation>Teacher</occupation>
+  </user>
+</users>
