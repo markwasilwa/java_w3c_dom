@@ -1,4 +1,4 @@
-package markwasilwa.wmmx;
+package com.realjdk.w3c_xml;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
